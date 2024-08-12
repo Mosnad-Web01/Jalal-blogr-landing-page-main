@@ -12,7 +12,7 @@ Users should be able to:
 # Links
 
 - Solution URL: 
-- Live Site URL:
+- Live Site URL: https://mosnad-web01.github.io/Jalal-blogr-landing-page-main/
 
 # Built with
 
